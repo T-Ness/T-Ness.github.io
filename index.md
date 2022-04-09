@@ -42,7 +42,7 @@ _イタリック_
 ```
 
 
-### ジャバスクリプトのマークダウン
+### ジャバスクリプトのマークダウン：markdownを追加してみたが
 ```markdown
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -61,7 +61,17 @@ var fun = function lang(l) {
 | :わん | :つー |
 | Item One       | Item Two       |
 
+
+| **Header One**     | **Header Two**     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
+| 3 One       | 2 Two       |
+
 horizontal rule
+
+| Item One       | Item Two       | Item One       | Item Two       |
+| 3 One       | 2 Two       | Item One       | Item Two       |
+
 
 ```
 マークダウン
