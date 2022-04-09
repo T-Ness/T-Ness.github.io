@@ -41,6 +41,28 @@ _イタリック_
 [Link](url) and ![Image](src)
 ```
 
+
+### ジャバスクリプトのマークダウン
+```
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+#### ヘッダー4
+ヘッダー
+ビッだー
+
+### ヘッダー6
+ろくろく
+
+| Header One     | Header Two     |
+| :わん | :つー |
+| Item One       | Item Two       |
+
+horizontal rule
+
 ```
 マークダウン
 ```
