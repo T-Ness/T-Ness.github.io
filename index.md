@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Pagesのテスト
 
 You can use the [editor on GitHub](https://github.com/T-Ness/T-Ness.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
