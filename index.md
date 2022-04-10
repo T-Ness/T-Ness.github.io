@@ -43,7 +43,11 @@ _イタリック_
 
 
 ### ジャバスクリプトのマークダウン：markdownを追加してみたが
+<<<<<<< HEAD
 ```Javascript
+=======
+```javascript
+>>>>>>> ed62d00b947bce3446017d4cc35860e0be542dda
 Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
