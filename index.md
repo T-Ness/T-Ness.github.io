@@ -43,12 +43,12 @@ _イタリック_
 
 
 ### ジャバスクリプトのマークダウン：markdownを追加してみたが
-```markdown
-`// Javascript code with syntax highlighting.
+```Javascript
+Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
-}`
+}
 ```
 #### ヘッダー4
 ヘッダー
@@ -86,3 +86,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~h-memo/29.embed?link=false"></iframe>
