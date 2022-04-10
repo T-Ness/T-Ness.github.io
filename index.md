@@ -43,13 +43,18 @@ _イタリック_
 
 
 ### ジャバスクリプトのマークダウン：markdownを追加してみたが
-```Javascript
+```javascript
 Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
 ```
+
+```python
+import pandas as pd
+```
+
 #### ヘッダー4
 ヘッダー
 ビッだー
