@@ -51,6 +51,9 @@ var fun = function lang(l) {
 }
 ```
 
+codeのマークダウン方法は以下のULRから参照
+[リンク](https://blog.katsubemakito.net/articles/github-markdown-syntaxhighlighting)
+
 ```python
 import pandas as pd
 ```
